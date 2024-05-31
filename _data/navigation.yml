@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "教研笔记"
-    url: /教研笔记/
+    url: /posts/
 
   - title: "学员成就"
     url: /学员成就/    
