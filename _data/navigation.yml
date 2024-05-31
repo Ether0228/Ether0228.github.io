@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "教研笔记"
-    url: /year-archive/
+    url: /教研笔记/
 
   - title: "学员成就"
-    url: /talks/    
+    url: /学员成就/    
 
   - title: "近期课程"
-    url: /teaching/    
+    url: /近期课程/    
     
   - title: "Goodquestions"
-    url: /portfolio/
+    url: /Goodquestions/
