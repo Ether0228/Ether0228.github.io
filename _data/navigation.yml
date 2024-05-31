@@ -1,15 +1,15 @@
 # main links links
 main:
   - title: "教研笔记"
-    url: /教研笔记/
+    url: /publications/
 
-  - title: "Talks"
+  - title: "学员成就"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "近期课程"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Goodquestions"
     url: /portfolio/
         
   - title: "Blog Posts"
