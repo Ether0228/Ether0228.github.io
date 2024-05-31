@@ -21,11 +21,11 @@ repository               : "Ether0228/Ether0228.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "liu.jpg"
+  name             : "榴莲/Leon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "创始人&教学与赛事总监"
+  location         : "上海"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
