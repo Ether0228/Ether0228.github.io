@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "创始人&教学与赛事总监"
   location         : "上海"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
